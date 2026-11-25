@@ -15,37 +15,14 @@ export const SELECTED = [
   "hal-03346297",  // Typologie des situations d'ordonnancement, TIES 2008
 ];
 
-// Publications présentes dans HAL mais pas rattachées à l'idHAL (même format que l'API HAL). À retirer une fois
-// rattachées ; tant que le DOI est le même, le doublon est fusionné tout seul.
-export const EXTRA = [
-  {
-    halId_s: "hal-03274691",
-    uri_s: "https://hal.science/hal-03274691v1",
-    docType_s: "ART",
-    language_s: [
-      "en"
-    ],
-    title_s: [
-      "OpenMATB: A Multi-Attribute Task Battery promoting task customization, software extensibility and experiment replicability"
-    ],
-    authFullName_s: [
-      "Julien Cegarra",
-      "Benoît Valéry",
-      "Eugénie Avril",
-      "Christophe Calmettes",
-      "Jordan Navarro"
-    ],
-    journalTitle_s: "Behavior Research Methods",
-    volume_s: "52",
-    page_s: "1980-1990",
-    producedDateY_i: 2020,
-    doiId_s: "10.3758/s13428-020-01364-w"
-  }
-];
+// Publications à ajouter à celles de HAL (même format que l'API HAL) ; un même DOI est fusionné tout seul.
+export const EXTRA = [];
 
 export const HIDDEN = [];  // identifiants HAL à ne pas afficher
 
 export const ALIASES = {
+  "J. Cegarra": "Julien Cegarra",
+  "J. Navarro": "Jordan Navarro",
   "Jean-Marc Andre": "Jean-Marc André"
 };  // noms à corriger à l'affichage
 

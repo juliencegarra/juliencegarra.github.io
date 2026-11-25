@@ -757,6 +757,54 @@
  },
  {
   "title_s": [
+   "OpenMATB: A Multi-Attribute Task Battery promoting task customization, software extensibility and experiment replicability"
+  ],
+  "journalTitle_s": "Behavior Research Methods",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Benoît Valéry",
+   "Eugénie Avril",
+   "Christophe Calmettes",
+   "J. Navarro"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-03274691",
+  "uri_s": "https://inria.hal.science/hal-03274691v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "5"
+  ],
+  "page_s": "1980-1990",
+  "volume_s": "52",
+  "doiId_s": "10.3758/s13428-020-01364-w",
+  "producedDateY_i": 2020
+ },
+ {
+  "title_s": [
+   "Impact of concept mapping and learners' use of the concept map on hypertext processing and learning"
+  ],
+  "conferenceTitle_s": "Earli Sig 2 Comprehension of Texts and Graphics",
+  "authFullName_s": [
+   "M. Sanchiz",
+   "J. Lemarié",
+   "L. Salmerón",
+   "A. Chevalier",
+   "J. Cegarra",
+   "P.-V Paubel",
+   "Franck Amadieu"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-04339352",
+  "uri_s": "https://hal.science/hal-04339352v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2020
+ },
+ {
+  "title_s": [
    "Return to Manual Control After Monitoring Automated Systems: Effects of Different Levels of Reliability"
   ],
   "conferenceTitle_s": "AHFE 2020 International Conference on Applied Human Factors and Ergonomics",
@@ -1867,6 +1915,35 @@
   "halId_s": "hal-05837072",
   "uri_s": "https://hal.science/hal-05837072v1",
   "docType_s": "COMM",
+  "producedDateY_i": 2013
+ },
+ {
+  "title_s": [
+   "A prospective video-based observational and analytical approach to evaluate management during brain tumour surgery at a university hospital"
+  ],
+  "journalTitle_s": "Neurochirurgie",
+  "authFullName_s": [
+   "J.-F. Couat",
+   "J. Cegarra",
+   "T. Rodsphon",
+   "T. Geeraerts",
+   "C. Lelardeux",
+   "J. Sol",
+   "Pierre Lagarrigue",
+   "V. Minville",
+   "V. Lubrano"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-01972923",
+  "uri_s": "https://hal.science/hal-01972923v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "4-5"
+  ],
+  "page_s": "142-148",
+  "volume_s": "59",
   "producedDateY_i": 2013
  },
  {
