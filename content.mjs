@@ -127,7 +127,7 @@ export const T = {
     bio: [
       "Je suis professeur des universités en psychologie ergonomique à l'Institut National Universitaire Champollion (Université de Toulouse), à Albi, et membre de l'unité de recherche SCoTE.",
       "Mes recherches portent sur la coopération entre l'humain et les systèmes automatisés : confiance, contentement, charge mentale et gestion de plusieurs tâches à la fois. Je les mène dans l'aéronautique, la conduite parmi les véhicules autonomes, la planification et l'usage des exosquelettes au travail.",
-      "J'ai dirigé SCoTE de 2016 à 2026 (Sciences de la cognition, Technologie, Ergonomie). J'ai dirigé ou co-encadré treize thèses, dont deux en cours.",
+      "J'ai dirigé SCoTE (Sciences de la cognition, Technologie, Ergonomie) de 2016 à 2026. J'ai dirigé ou co-encadré treize thèses, dont deux en cours.",
       "J'ai aussi dirigé le master Ergonomie (2009–2021), le parcours de master Qualité, environnement et risques industriels (QERI, 2016–2021) et le diplôme d'université Management de l'environnement, du risque industriel et de la sécurité (MERIS, 2011–2021).",
       "Je développe <a href=\"https://juliencegarra.github.io/OpenMATB/\">OpenMATB</a>, une batterie de tâches multiples libre pour l'étude de la charge mentale."
     ],
