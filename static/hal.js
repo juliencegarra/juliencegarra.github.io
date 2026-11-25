@@ -116,7 +116,7 @@
     if (url) title = '<a href="' + esc(url) + '">' + title + "</a>";
     if (r.volume && r.group === "art") venue += ", " + esc(r.volume) + (r.issue ? "(" + esc(r.issue) + ")" : "");
     if (/\d\s*[-–]\s*\d/.test(r.pages) && (r.group === "art" || r.group === "book"))
-      venue += ", " + esc(r.pages.replace(/\s*[-–]+\s*/g, "–"));
+      venue += ", " + esc(r.pages.replace(/\s*[-–]+\s*/g, "-"));
     var links = [[r.pdf, "PDF"], [r.doi && doiUrl(r.doi), "DOI"], [r.hal, "HAL"]]
       .filter(function (l) { return l[0]; })
       .map(function (l) { return '<a href="' + esc(l[0]) + '">' + l[1] + "</a>"; }).join(" ");

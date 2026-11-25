@@ -95,7 +95,7 @@ export const T = {
         "Background",
         [
           [
-            "2014-",
+            "Since 2014",
             "Full professor, INU Champollion."
           ],
           [
@@ -186,7 +186,7 @@ export const T = {
         "Parcours",
         [
           [
-            "2014-",
+            "Depuis 2014",
             "Professeur des universités, INU Champollion."
           ],
           [
