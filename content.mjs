@@ -36,7 +36,7 @@ export const T = {
     bio: [
       "I am a full professor of ergonomic psychology at the Institut National Universitaire Champollion (University of Toulouse) in Albi, France, and a member of the SCoTE research unit.",
       "I study how people work with automated systems: trust, complacency, mental workload and multitasking. I do so in aviation, in driving among autonomous vehicles, in planning and scheduling, and in the use of exoskeletons at work.",
-      "From 2016 to 2026 I headed SCoTE (cognitive science, technology, ergonomics). I have supervised or co-supervised thirteen PhD theses, two of them in progress.",
+      "From 2016 to 2026 I headed the SCoTE research unit (cognitive science, technology, ergonomics). I have supervised or co-supervised thirteen PhD theses, two of them in progress.",
       "I have also headed the master's programme in ergonomics (2009–2021), the master's track in quality, environment and industrial risks (QERI, 2016–2021) and the university diploma in environment, industrial risk and safety management (MERIS, 2011–2021).",
       "I develop <a href=\"https://juliencegarra.github.io/OpenMATB/\">OpenMATB</a>, an open-source multi-attribute task battery for research on mental workload."
     ],
@@ -127,7 +127,7 @@ export const T = {
     bio: [
       "Je suis professeur des universités en psychologie ergonomique à l'Institut National Universitaire Champollion (Université de Toulouse), à Albi, et membre de l'unité de recherche SCoTE.",
       "Mes recherches portent sur la coopération entre l'humain et les systèmes automatisés : confiance, contentement, charge mentale et gestion de plusieurs tâches à la fois. Je les mène dans l'aéronautique, la conduite parmi les véhicules autonomes, la planification et l'usage des exosquelettes au travail.",
-      "J'ai dirigé SCoTE (Sciences de la cognition, Technologie, Ergonomie) de 2016 à 2026. J'ai dirigé ou co-encadré treize thèses, dont deux en cours.",
+      "J'ai dirigé de 2016 à 2026 l'unité de recherche SCoTE (Sciences de la cognition, Technologie, Ergonomie). J'ai dirigé ou co-encadré treize thèses, dont deux en cours.",
       "J'ai aussi dirigé le master Ergonomie (2009–2021), le parcours de master Qualité, environnement et risques industriels (QERI, 2016–2021) et le diplôme d'université Management de l'environnement, du risque industriel et de la sécurité (MERIS, 2011–2021).",
       "Je développe <a href=\"https://juliencegarra.github.io/OpenMATB/\">OpenMATB</a>, une batterie de tâches multiples libre pour l'étude de la charge mentale."
     ],
