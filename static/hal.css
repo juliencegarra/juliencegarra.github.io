@@ -1,0 +1,24 @@
+/* Style de <hal-publications>. La police vient de la page ; les couleurs se règlent avec
+   --fg, --muted, --link et --aside, et ont ici des valeurs de repli. */
+hal-publications { display: block; }
+hal-publications [hidden] { display: none !important; }
+hal-publications a { color: var(--link, #1f4e5f); text-decoration: none; }
+hal-publications a:hover { text-decoration: underline; text-underline-offset: .18em; }
+.hal-filters { display: grid; gap: .9rem; margin: 1.6rem 0 .4rem; }
+.hal-types { display: flex; flex-wrap: wrap; gap: .35rem 1.2rem; }
+.hal-types button { font: inherit; color: var(--link, #1f4e5f); background: none; border: 0; border-bottom: 1px solid transparent; padding: .1rem 0; cursor: pointer; }
+.hal-types button span { color: var(--muted, #596166); font-size: .85em; font-variant-numeric: lining-nums; }
+.hal-types button[aria-pressed="true"] { color: var(--fg, inherit); border-color: currentColor; }
+.hal-filters input { font: inherit; box-sizing: border-box; width: 100%; color: var(--fg, inherit); background: transparent; border: 0; border-bottom: 1px solid var(--muted, #596166); border-radius: 0; padding: .3rem 0; }
+.hal-filters input::placeholder { color: var(--muted, #596166); opacity: 1; }
+.hal-year { display: grid; grid-template-columns: 5rem minmax(0, 1fr); margin-top: 2.2rem; }
+.hal-year h2 { margin: 0; font-size: 1em; font-weight: 400; line-height: 1.42; color: var(--muted, #596166); font-variant-numeric: lining-nums tabular-nums; }
+.hal-year ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.1rem; }
+.hal-year li { line-height: 1.3; }
+.hal-t, .hal-m { display: block; overflow-wrap: anywhere; }
+.hal-m { color: var(--muted, #596166); font-size: .88em; font-variant-numeric: lining-nums; }
+.hal-m b { font-weight: 500; color: var(--fg, inherit); }
+.hal-l { white-space: nowrap; }
+hal-publications .hal-l a { color: var(--aside, #2f7f9e); margin-left: .35rem; }
+@media (max-width: 46rem) { .hal-year { grid-template-columns: minmax(0, 1fr); gap: .5rem; } }
+@media print { .hal-filters { display: none; } }

@@ -1,0 +1,44 @@
+name: GitHub Pages
+
+# Reconstruit le site à chaque envoi, et chaque lundi pour rafraîchir la liste écrite à l'avance (celle des moteurs de
+# recherche) : la page, elle, lit HAL en direct. GitHub coupe cette tâche après 60 jours sans activité, sans gravité.
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  actions: read  # requis par actions/deploy-pages
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+      - run: node build.mjs
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+          include-hidden-files: true
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

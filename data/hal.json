@@ -1,0 +1,2990 @@
+[
+ {
+  "title_s": [
+   "Véhicules autonomes et conduite simulée, comment les représentations guident l'action"
+  ],
+  "conferenceTitle_s": "13e colloque de Psychologie Ergonomique (EPIQUE 2026)",
+  "authFullName_s": [
+   "Oriane Mouton",
+   "Julien Cegarra",
+   "Jordan Navarro"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05837042",
+  "uri_s": "https://hal.science/hal-05837042v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2026
+ },
+ {
+  "title_s": [
+   "Automatic Detection of Startle and Surprise Using an Infrared Camera"
+  ],
+  "conferenceTitle_s": "International Conference on Human-Computer Interaction",
+  "authFullName_s": [
+   "Julien Briand",
+   "Flora Schwartz",
+   "Jonathan Deniel",
+   "Alexandre Veyrie",
+   "Zhengji Wu",
+   "Lara Salti",
+   "Julien Cegarra",
+   "James Blundell",
+   "Christophe Hurter",
+   "Mickaël Causse"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05802457",
+  "uri_s": "https://enac.hal.science/hal-05802457v1",
+  "docType_s": "COMM",
+  "page_s": "3-16",
+  "publisher_s": [
+   "Springer Nature Switzerland"
+  ],
+  "volume_s": "16707",
+  "doiId_s": "10.1007/978-3-032-29456-2_1",
+  "producedDateY_i": 2026,
+  "fileMain_s": "https://enac.hal.science/hal-05802457/document"
+ },
+ {
+  "title_s": [
+   "Examining behavioral and psychophysiological indices of mental workload during multitasking"
+  ],
+  "conferenceTitle_s": "ICCAS 2026",
+  "authFullName_s": [
+   "Cédric T. Albinet",
+   "Jonathan Deniel",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05655729",
+  "uri_s": "https://hal.science/hal-05655729v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2026
+ },
+ {
+  "title_s": [
+   "Embodiment of Occupational Exoskeletons as Developing a Sense of Ownership and Readiness-To-Hand: Laboratory and Field Explorations"
+  ],
+  "journalTitle_s": "Human Factors",
+  "authFullName_s": [
+   "Marc Dufraisse",
+   "Jean-Jacques Atain Kouadio",
+   "Chris Hayot",
+   "Kévin Desbrosses",
+   "Isabelle Clerc-Urmès",
+   "Olivier Morel",
+   "Olivier Rémy",
+   "Liên Wioland",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05322388",
+  "uri_s": "https://hal.science/hal-05322388v1",
+  "docType_s": "ART",
+  "page_s": "1-21",
+  "doiId_s": "10.1177/00187208251368269",
+  "producedDateY_i": 2025
+ },
+ {
+  "title_s": [
+   "Becoming a User: Understanding the Journeys Towards the Adoption of Occupational Exoskeletons"
+  ],
+  "journalTitle_s": "International Journal of Human-Computer Interaction",
+  "authFullName_s": [
+   "Marc Dufraisse",
+   "Liên Wioland",
+   "Jean-Jacques Atain Kouadio",
+   "Isabelle Clerc-Urmès",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05322378",
+  "uri_s": "https://hal.science/hal-05322378v1",
+  "docType_s": "ART",
+  "page_s": "1-21",
+  "doiId_s": "10.1080/10447318.2025.2543996",
+  "producedDateY_i": 2025
+ },
+ {
+  "title_s": [
+   "Driving among autonomous vehicles: The effect of initial trust and driving style on driving behaviors"
+  ],
+  "journalTitle_s": "Transportation Research Part F: Traffic Psychology and Behaviour",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Hélène Unrein",
+   "Jean-Marc Andre",
+   "Oriane Mouton",
+   "Jordan Navarro"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05777728",
+  "uri_s": "https://hal.science/hal-05777728v1",
+  "docType_s": "ART",
+  "page_s": "99-110",
+  "volume_s": "112",
+  "doiId_s": "10.1016/j.trf.2025.03.023",
+  "producedDateY_i": 2025
+ },
+ {
+  "title_s": [
+   "Driving among autonomous vehicles: The effect of initial trust and driving style on driving behaviors"
+  ],
+  "journalTitle_s": "Transportation Research Part F: Traffic Psychology and Behaviour",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Hélène Unrein",
+   "Jean-Marc Andre",
+   "Oriane Mouton",
+   "Jordan Navarro"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05026198",
+  "uri_s": "https://hal.science/hal-05026198v1",
+  "docType_s": "ART",
+  "page_s": "99-110",
+  "volume_s": "112",
+  "doiId_s": "10.1016/j.trf.2025.03.023",
+  "producedDateY_i": 2025,
+  "fileMain_s": "https://hal.science/hal-05026198/document"
+ },
+ {
+  "title_s": [
+   "Cognitive Incapacitation in Aviation"
+  ],
+  "journalTitle_s": "Aviation Psychology and Applied Human Factors",
+  "authFullName_s": [
+   "Jonathan Deniel",
+   "Maud Dupuy",
+   "Alexandre Duchevet",
+   "Nadine Matton",
+   "Jean-Paul Imbert",
+   "Julien Cegarra",
+   "Mickaël Causse"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05322402",
+  "uri_s": "https://hal.science/hal-05322402v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "1"
+  ],
+  "page_s": "62-82",
+  "volume_s": "15",
+  "doiId_s": "10.1027/2192-0923/a000286",
+  "producedDateY_i": 2025
+ },
+ {
+  "title_s": [
+   "Evaluating and Influencing Strategy in Real-Time: Example of a Collaborative Strategy Game",
+   "Évaluation et orientation de la stratégie en temps réel : l'exemple d'un jeu de stratégie collaboratif"
+  ],
+  "conferenceTitle_s": "International Conference on Persuasive Technology",
+  "authFullName_s": [
+   "Marie Morelle-Gerritsen",
+   "Damien Marion",
+   "Julien Cegarra",
+   "Hélène Unrein",
+   "Théodore Letouzé",
+   "Jean-Marc André"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05752477",
+  "uri_s": "https://hal.science/hal-05752477v1",
+  "docType_s": "COMM",
+  "page_s": "89-93",
+  "publisher_s": [
+   "Springer Nature Switzerland"
+  ],
+  "volume_s": "2542",
+  "doiId_s": "10.1007/978-3-031-97177-8_7",
+  "producedDateY_i": 2025
+ },
+ {
+  "title_s": [
+   "Autonomous Vehicles: safe and dangerous all at once"
+  ],
+  "conferenceTitle_s": "HFES: Human Factors and Ergonomics Society",
+  "authFullName_s": [
+   "Oriane Mouton",
+   "Julien Cegarra",
+   "Maureen Even",
+   "Jordan Navarro"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05100866",
+  "uri_s": "https://hal.science/hal-05100866v1",
+  "docType_s": "POSTER",
+  "producedDateY_i": 2025
+ },
+ {
+  "title_s": [
+   "Cognitive incapacitation in aviation: a narrative review"
+  ],
+  "journalTitle_s": "Theoretical Issues in Ergonomics Science",
+  "authFullName_s": [
+   "Mickaël Causse",
+   "Jonathan Deniel",
+   "Flora Schwartz",
+   "Alexandre Duchevet",
+   "Nadine Matton",
+   "Jean-Paul Imbert",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-04984691",
+  "uri_s": "https://hal.science/hal-04984691v1",
+  "docType_s": "ART",
+  "page_s": "1-19",
+  "doiId_s": "10.1080/1463922X.2025.2475431",
+  "producedDateY_i": 2025
+ },
+ {
+  "title_s": [
+   "From unknown to familiar: An exploratory longitudinal field study on occupational exoskeletons adoption"
+  ],
+  "journalTitle_s": "Applied Ergonomics",
+  "authFullName_s": [
+   "Marc Dufraisse",
+   "Julien Cegarra",
+   "Jean-Jacques Atain Kouadio",
+   "Isabelle Clerc-Urmès",
+   "Liên Wioland"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-04984280",
+  "uri_s": "https://hal.science/hal-04984280v1",
+  "docType_s": "ART",
+  "page_s": "104393",
+  "volume_s": "122",
+  "doiId_s": "10.1016/j.apergo.2024.104393",
+  "producedDateY_i": 2025
+ },
+ {
+  "title_s": [
+   "Supporting road safety by analyzing social representations of automated vehicles. Driving behavior in the presence of autonomous vehicles: elements for road safety"
+  ],
+  "conferenceTitle_s": "European Conference on Cognitive Ergonomics 2024 (ECCE 24),",
+  "authFullName_s": [
+   "Oriane Mouton",
+   "Julien Cegarra",
+   "Jordan Navarro"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05040964",
+  "uri_s": "https://hal.univ-lyon2.fr/hal-05040964v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2024
+ },
+ {
+  "title_s": [
+   "Understand People's Representations of Automated Vehicle"
+  ],
+  "conferenceTitle_s": "ECCE 2024: European Conference on Cognitive Ergonomics",
+  "authFullName_s": [
+   "Oriane Mouton",
+   "Julien Cegarra",
+   "Jordan Navarro"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05005159",
+  "uri_s": "https://hal.science/hal-05005159v1",
+  "docType_s": "POSTER",
+  "producedDateY_i": 2024
+ },
+ {
+  "title_s": [
+   "WIP - Supporting road safety by analyzing social representations of automated vehicles"
+  ],
+  "conferenceTitle_s": "ECCE 2024: European Conference on Cognitive Ergonomics",
+  "authFullName_s": [
+   "Oriane Mouton",
+   "Julien Cegarra",
+   "Jordan Navarro"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-04984321",
+  "uri_s": "https://hal.science/hal-04984321v1",
+  "docType_s": "COMM",
+  "page_s": "1-4",
+  "publisher_s": [
+   "ACM"
+  ],
+  "doiId_s": "10.1145/3673805.3673853",
+  "producedDateY_i": 2024
+ },
+ {
+  "title_s": [
+   "Mapping User Journeys in Occupational Exoskeleton Adoption: the Adoption UX Curve (AUXC)"
+  ],
+  "conferenceTitle_s": "ECCE 2024: European Conference on Cognitive Ergonomics",
+  "authFullName_s": [
+   "Marc Dufraisse",
+   "Jean Jacques Atain Kouadio",
+   "Julien Cegarra",
+   "Lien Wioland"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-04984315",
+  "uri_s": "https://hal.science/hal-04984315v1",
+  "docType_s": "PROCEEDINGS",
+  "page_s": "1-4",
+  "publisher_s": [
+   "ACM"
+  ],
+  "doiId_s": "10.1145/3673805.3673837",
+  "producedDateY_i": 2024
+ },
+ {
+  "title_s": [
+   "Occupational Exoskeletons as Symbionts: Defining Operator-Exoskeleton Interactions"
+  ],
+  "conferenceTitle_s": "15th International Conference on Applied Human Factors and Ergonomics (AHFE 2024)",
+  "authFullName_s": [
+   "Marc Dufraisse",
+   "Lien Wioland",
+   "Jean-Jacques Atain-Kouadio",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-04984340",
+  "uri_s": "https://hal.science/hal-04984340v1",
+  "docType_s": "PROCEEDINGS",
+  "doiId_s": "10.54941/ahfe1005058",
+  "producedDateY_i": 2024
+ },
+ {
+  "title_s": [
+   "Guerre cognitive et dépendance technologique"
+  ],
+  "journalTitle_s": "Ingénierie cognitique",
+  "authFullName_s": [
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05322415",
+  "uri_s": "https://hal.science/hal-05322415v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "1"
+  ],
+  "page_s": "57-61",
+  "volume_s": "7",
+  "doiId_s": "10.21494/ISTE.OP.2024.1089",
+  "producedDateY_i": 2024
+ },
+ {
+  "title_s": [
+   "Towards a Definition of Cognitive Warfare"
+  ],
+  "conferenceTitle_s": "Conference on Artificial Intelligence for Defense",
+  "authFullName_s": [
+   "Marie Morelle",
+   "Cegarra Julien",
+   "Damien Marion",
+   "André Jean-Marc"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-04328461",
+  "uri_s": "https://hal.science/hal-04328461v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2023,
+  "fileMain_s": "https://hal.science/hal-04328461/document"
+ },
+ {
+  "title_s": [
+   "Conduire parmi des véhicules autonomes : effet de la confiance initiale sur le comportement de conduite"
+  ],
+  "conferenceTitle_s": "12ème colloque EPIQUE",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Hélène Unrein",
+   "Jean-Marc André",
+   "Jordan Navarro"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-04448911",
+  "uri_s": "https://hal.science/hal-04448911v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2023
+ },
+ {
+  "title_s": [
+   "Integrating physiological and mental aspects in employee scheduling: an overview for practitioners in production management"
+  ],
+  "journalTitle_s": "International Journal of Production Research",
+  "authFullName_s": [
+   "Barbara Tropschuh",
+   "Julien Cegarra",
+   "Olga Battaïa"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-04451249",
+  "uri_s": "https://hal.science/hal-04451249v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "6"
+  ],
+  "page_s": "2093-2106",
+  "volume_s": "62",
+  "doiId_s": "10.1080/00207543.2023.2217278",
+  "producedDateY_i": 2023
+ },
+ {
+  "title_s": [
+   "Le cognitive warfare : Contexte, concept et enjeux."
+  ],
+  "conferenceTitle_s": "12ème Colloque de Psychologie Ergonomique - Épique 2023",
+  "authFullName_s": [
+   "Marie Morelle",
+   "Damien Marion",
+   "Julien Cegarra",
+   "Jean-Marc André"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-04628907",
+  "uri_s": "https://hal.science/hal-04628907v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2023
+ },
+ {
+  "title_s": [
+   "Influence of automation mode use on selection rates and subjective assessment over time"
+  ],
+  "journalTitle_s": "Cognition, Technology and Work",
+  "authFullName_s": [
+   "Jordan Navarro",
+   "Etienne Jomard",
+   "Émilie Saleur",
+   "William Abrard",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-03986071",
+  "uri_s": "https://hal.univ-lyon2.fr/hal-03986071v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "4"
+  ],
+  "page_s": "609-624",
+  "volume_s": "24",
+  "doiId_s": "10.1007/s10111-022-00712-4",
+  "producedDateY_i": 2022
+ },
+ {
+  "title_s": [
+   "Human system"
+  ],
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Jordan Navarro"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05040962",
+  "uri_s": "https://hal.univ-lyon2.fr/hal-05040962v1",
+  "docType_s": "COUV",
+  "bookTitle_s": "Digital Dictionary",
+  "issue_s": [
+   "1"
+  ],
+  "publisher_s": [
+   "ISTE Editions"
+  ],
+  "doiId_s": "10.1002/9781394163908.contrib",
+  "producedDateY_i": 2022
+ },
+ {
+  "title_s": [
+   "Development of the Smart Tools Proneness Questionnaire (STP-Q): an instrument to assess the individual propensity to use smart tools"
+  ],
+  "journalTitle_s": "Ergonomics",
+  "authFullName_s": [
+   "J. Navarro",
+   "F. Osiurak",
+   "S. Ha",
+   "G. Communay",
+   "E. Ferrier-Barbut",
+   "A. Coatrine",
+   "V. Gaujoux",
+   "E. Hernout",
+   "Julien Cegarra",
+   "W. Volante",
+   "P. Hancock"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-04984301",
+  "uri_s": "https://hal.science/hal-04984301v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "12"
+  ],
+  "page_s": "1639-1658",
+  "volume_s": "65",
+  "doiId_s": "10.1080/00140139.2022.2048895",
+  "producedDateY_i": 2022
+ },
+ {
+  "title_s": [
+   "Automation Type and Reliability Impact on Visual Automation Monitoring and Human Performance"
+  ],
+  "journalTitle_s": "International Journal of Human-Computer Interaction",
+  "authFullName_s": [
+   "Eugénie Avril",
+   "Julien Cegarra",
+   "Liên Wioland",
+   "Jordan Navarro"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-03986138",
+  "uri_s": "https://hal.univ-lyon2.fr/hal-03986138v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "1"
+  ],
+  "page_s": "64-77",
+  "volume_s": "38",
+  "doiId_s": "10.1080/10447318.2021.1925435",
+  "producedDateY_i": 2022
+ },
+ {
+  "title_s": [
+   "Activités de planification"
+  ],
+  "authFullName_s": [
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-04984352",
+  "uri_s": "https://hal.science/hal-04984352v1",
+  "docType_s": "COUV",
+  "bookTitle_s": "Ergonomie : 150 notions clés",
+  "page_s": "53-55",
+  "publisher_s": [
+   "Dunod"
+  ],
+  "doiId_s": "10.3917/dunod.brang.2021.01.0053",
+  "producedDateY_i": 2021
+ },
+ {
+  "title_s": [
+   "Apports de l’analyse du domaine pour l’ergonomie prospective : le cas du transport routier de marchandises"
+  ],
+  "conferenceTitle_s": "11ème colloque de Psychologie Ergonomique EPIQUE",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Virginie Govaere",
+   "Liên Wioland"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-04984360",
+  "uri_s": "https://hal.science/hal-04984360v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2021
+ },
+ {
+  "title_s": [
+   "Supervision de système automatisé : effet du type d’automatisation et du niveau de fiabilité sur les performances humaines."
+  ],
+  "conferenceTitle_s": "EPIQUE 2021",
+  "authFullName_s": [
+   "Eugénie Avril",
+   "Julien Cegarra",
+   "Liên Wioland",
+   "Jordan Navarro"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-03274678",
+  "uri_s": "https://hal.science/hal-03274678v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2021,
+  "fileMain_s": "https://hal.science/hal-03274678/document"
+ },
+ {
+  "title_s": [
+   "Effect of Imperfect Information and Action Automation on Attentional Allocation"
+  ],
+  "journalTitle_s": "International Journal of Human-Computer Interaction",
+  "authFullName_s": [
+   "Eugénie Avril",
+   "Benoît Valéry",
+   "Jordan Navarro",
+   "Liên Wioland",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-03986151",
+  "uri_s": "https://hal.univ-lyon2.fr/hal-03986151v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "11"
+  ],
+  "page_s": "1063-1073",
+  "volume_s": "37",
+  "doiId_s": "10.1080/10447318.2020.1870817",
+  "producedDateY_i": 2021
+ },
+ {
+  "title_s": [
+   "A Prospective Ergonomics Approach for the Design of a Planning Support System in the Road Freight Transport (RFT)"
+  ],
+  "conferenceTitle_s": "Congress of the International Ergonomics Association (IEA 2021)",
+  "authFullName_s": [
+   "Eugénie Avril",
+   "Virginie Govaere",
+   "Liên Wioland",
+   "Jordan Navarro",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-03274656",
+  "uri_s": "https://inria.hal.science/hal-03274656v1",
+  "docType_s": "COMM",
+  "page_s": "597-603",
+  "doiId_s": "10.1007/978-3-030-74602-5_82",
+  "producedDateY_i": 2021
+ },
+ {
+  "title_s": [
+   "Impact of Pilot's Expertise on Selection, Use, Trust, and Acceptance of Automation"
+  ],
+  "journalTitle_s": "IEEE Transactions on Human-Machine Systems",
+  "authFullName_s": [
+   "Jordan Navarro",
+   "Sarah Allali",
+   "Nicolas Cabrignac",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-03346210",
+  "uri_s": "https://hal.science/hal-03346210v1",
+  "docType_s": "ART",
+  "page_s": "1-10",
+  "doiId_s": "10.1109/THMS.2021.3090199",
+  "producedDateY_i": 2021
+ },
+ {
+  "title_s": [
+   "Robustness, Resilience: typology of definitions through a multidisciplinary structured analysis of the literature"
+  ],
+  "journalTitle_s": "European Journal of Industrial Engineering",
+  "authFullName_s": [
+   "Antoine Clément",
+   "Lien Wioland",
+   "Virginie Govaere",
+   "Didier Gourc",
+   "Julien Cegarra",
+   "François Marmier",
+   "Daouda Kamissoko"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-03151809",
+  "uri_s": "https://imt-mines-albi.hal.science/hal-03151809v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "4"
+  ],
+  "page_s": "487-513",
+  "volume_s": "15",
+  "doiId_s": "10.1504/EJIE.2021.116128",
+  "producedDateY_i": 2021,
+  "fileMain_s": "https://imt-mines-albi.hal.science/hal-03151809/document"
+ },
+ {
+  "title_s": [
+   "Return to Manual Control After Monitoring Automated Systems: Effects of Different Levels of Reliability"
+  ],
+  "conferenceTitle_s": "AHFE 2020 International Conference on Applied Human Factors and Ergonomics",
+  "authFullName_s": [
+   "Eugénie Avril",
+   "Jordan Navarro",
+   "Liên Wioland",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-03274650",
+  "uri_s": "https://inria.hal.science/hal-03274650v1",
+  "docType_s": "COMM",
+  "page_s": "317-323",
+  "doiId_s": "10.1007/978-3-030-51038-1_44",
+  "producedDateY_i": 2020
+ },
+ {
+  "title_s": [
+   "OpenMATB: A Task Battery promoting task customization, software extensibility and experiment replicability"
+  ],
+  "conferenceTitle_s": "International Conference on Cognitive Aircraft Systems ICCAS",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Benoît Valéry",
+   "Eugénie Avril",
+   "C. Calmettes",
+   "Jordan Navarro"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05041075",
+  "uri_s": "https://hal.science/hal-05041075v1",
+  "docType_s": "POSTER",
+  "producedDateY_i": 2020
+ },
+ {
+  "title_s": [
+   "The effects of information and action automation on the complacency phenomenon"
+  ],
+  "conferenceTitle_s": "The 31st European Conference on Cognitive Ergonomics (ECCE 2019)",
+  "authFullName_s": [
+   "Eugénie Avril",
+   "Jordan Navarro",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02449190",
+  "uri_s": "https://hal.science/hal-02449190v1",
+  "docType_s": "COMM",
+  "page_s": "53-56",
+  "publisher_s": [
+   "ACM Press"
+  ],
+  "doiId_s": "10.1145/3335082.3335098",
+  "producedDateY_i": 2019,
+  "fileMain_s": "https://hal.science/hal-02449190/document"
+ },
+ {
+  "title_s": [
+   "Le phénomène de contentement : comparaison entre un automate de l'action et un automate de l'information"
+  ],
+  "conferenceTitle_s": "EPIQUE 2019, 10ème colloque de psychologie ergonomique - L'ergonomie et les nouvelles technologies",
+  "authFullName_s": [
+   "Eugénie Avril",
+   "Jordan Navarro",
+   "Liên Wioland",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-02449273",
+  "uri_s": "https://hal.science/hal-02449273v1",
+  "docType_s": "COMM",
+  "page_s": "476",
+  "publisher_s": [
+   "Arpege Science Publishing"
+  ],
+  "producedDateY_i": 2019,
+  "fileMain_s": "https://hal.science/hal-02449273/document"
+ },
+ {
+  "title_s": [
+   "A Curvilinear Effect of Mental Workload on Mental Effort and Behavioral Adaptability: An Approach With the Pre-Ejection Period"
+  ],
+  "journalTitle_s": "Human Factors",
+  "authFullName_s": [
+   "Charlotte Mallat",
+   "Julien Cegarra",
+   "Christophe Calmettes",
+   "Rémi Capa"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-03579405",
+  "uri_s": "https://hal.science/hal-03579405v1",
+  "docType_s": "ART",
+  "page_s": "001872081985591",
+  "doiId_s": "10.1177/0018720819855919",
+  "producedDateY_i": 2019
+ },
+ {
+  "title_s": [
+   "A Curvilinear Effect of Mental Workload on Mental Effort and Behavioral Adaptability: An Approach With the Pre-Ejection Period"
+  ],
+  "journalTitle_s": "Human Factors",
+  "authFullName_s": [
+   "Charlotte Mallat",
+   "Julien Cegarra",
+   "Christophe Calmettes",
+   "Rémi Capa"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02363949",
+  "uri_s": "https://hal.science/hal-02363949v1",
+  "docType_s": "ART",
+  "page_s": "001872081985591",
+  "doiId_s": "10.1177/0018720819855919",
+  "producedDateY_i": 2019
+ },
+ {
+  "title_s": [
+   "Investigating multimedia effects on concept map building: Impact on map quality, information processing and learning outcome"
+  ],
+  "journalTitle_s": "Education and Information Technologies",
+  "authFullName_s": [
+   "Mylène Sanchiz",
+   "Julie Lemarié",
+   "Aline Chevalier",
+   "Julien Cegarra",
+   "Pierre-Vincent Paubel",
+   "Lalo Salmerón",
+   "Franck Amadieu"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-04813277",
+  "uri_s": "https://hal.science/hal-04813277v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "6"
+  ],
+  "page_s": "3645-3667",
+  "volume_s": "24",
+  "doiId_s": "10.1007/s10639-019-09943-x",
+  "producedDateY_i": 2019
+ },
+ {
+  "title_s": [
+   "Analyse intersectorielle des activités de planification : enseignements et perspectives issus d'une démarche ergonomique"
+  ],
+  "authFullName_s": [
+   "Koosha Khademi",
+   "Julien Cegarra",
+   "Virginie Govaere",
+   "Liên Wioland"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-02958061",
+  "uri_s": "https://hal.science/hal-02958061v1",
+  "docType_s": "REPORT",
+  "page_s": "69",
+  "producedDateY_i": 2019,
+  "fileMain_s": "https://hal.science/hal-02958061/document"
+ },
+ {
+  "title_s": [
+   "Influence of human-machine interactions and task demand on automation selection and use"
+  ],
+  "journalTitle_s": "Ergonomics",
+  "authFullName_s": [
+   "Jordan Navarro",
+   "Louis Heuveline",
+   "Eugénie Avril",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02441187",
+  "uri_s": "https://hal.science/hal-02441187v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "12"
+  ],
+  "page_s": "1601-1612",
+  "volume_s": "61",
+  "doiId_s": "10.1080/00140139.2018.1501517",
+  "producedDateY_i": 2018
+ },
+ {
+  "title_s": [
+   "Smart Planning - Approaching the Characteristics of a Valid, Balanced Transport Round"
+  ],
+  "conferenceTitle_s": "IEA 2018 - 20th Congress of the International Ergonomics Association",
+  "authFullName_s": [
+   "Virginie Govaere",
+   "Liên Wioland",
+   "Julien Cegarra",
+   "Didier Gourc",
+   "Antoine Clément"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-01896723",
+  "uri_s": "https://imt-mines-albi.hal.science/hal-01896723v1",
+  "docType_s": "COMM",
+  "page_s": "387-396",
+  "volume_s": "819",
+  "doiId_s": "10.1007/978-3-319-96089-0_42",
+  "producedDateY_i": 2018,
+  "fileMain_s": "https://imt-mines-albi.hal.science/hal-01896723/document"
+ },
+ {
+  "title_s": [
+   "Linear or curvilinear relationship between mental workload and effort mobilization"
+  ],
+  "conferenceTitle_s": "9th International Conference on Applied Human Factors and Ergonomics",
+  "authFullName_s": [
+   "Charlotte Mallat",
+   "Julien Cegarra",
+   "Christophe Calmettes",
+   "Rémi L. Capa"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02507384",
+  "uri_s": "https://hal.science/hal-02507384v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2018
+ },
+ {
+  "title_s": [
+   "Automation and Complacency: Insights from a Planning Task in the Transportation Domain"
+  ],
+  "conferenceTitle_s": "HCI 2018 - 20th International Conference on Human-Computer Interaction",
+  "authFullName_s": [
+   "Eugénie Avril",
+   "Jordan Navarro",
+   "Liên Wioland",
+   "Benoît Valery",
+   "Virginie Govaere",
+   "Didier Gourc",
+   "Koosha Khademi",
+   "Christos Dimopoulos",
+   "Elisabeth Dargent",
+   "Nathalie Renaudeau",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-01896232",
+  "uri_s": "https://hal.science/hal-01896232v1",
+  "docType_s": "COMM",
+  "page_s": "437-442",
+  "publisher_s": [
+   "Springer"
+  ],
+  "volume_s": "852",
+  "doiId_s": "10.1007/978-3-319-92285-0_59",
+  "producedDateY_i": 2018,
+  "fileMain_s": "https://hal.science/hal-01896232/document"
+ },
+ {
+  "title_s": [
+   "Robustesse, résilience : une brève synthèse des définitions au travers d'une analyse structurée de la littérature"
+  ],
+  "conferenceTitle_s": "MOSIM'18 - 12ème Conférence internationale de Modélisation, Optimisation et SIMulation",
+  "authFullName_s": [
+   "Antoine Clément",
+   "François Marmier",
+   "Daouda Kamissoko",
+   "Didier Gourc",
+   "Liên Wioland",
+   "Virginie Govaere",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-01852093",
+  "uri_s": "https://imt-mines-albi.hal.science/hal-01852093v1",
+  "docType_s": "COMM",
+  "page_s": "8",
+  "producedDateY_i": 2018,
+  "fileMain_s": "https://imt-mines-albi.hal.science/hal-01852093/document"
+ },
+ {
+  "title_s": [
+   "Étude sur le contentement des opérateurs humains face à différents types d’automatisation : application au domaine des transports"
+  ],
+  "conferenceTitle_s": "Doctoriales 2018",
+  "authFullName_s": [
+   "Eugénie Avril",
+   "Liên Wioland",
+   "Jordan Navarro",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-02500554",
+  "uri_s": "https://hal.science/hal-02500554v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2018
+ },
+ {
+  "title_s": [
+   "Where Are My Resources When I Need to Reach My Goal? Studies on Motivation and Effort Mobilization"
+  ],
+  "conferenceTitle_s": "30nd Annual Convention of the Association for Psychological Science",
+  "authFullName_s": [
+   "Rémi Capa",
+   "Charlotte Mallat",
+   "Christophe Calmettes",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02904069",
+  "uri_s": "https://hal.science/hal-02904069v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2018
+ },
+ {
+  "title_s": [
+   "Work planning in low-volume assembly lines under ergonomic constraints"
+  ],
+  "conferenceTitle_s": "51st CIRP Conference on Manufacturing Systems (CIRP CMS 2018)",
+  "authFullName_s": [
+   "Dmitry I. Arkhipov",
+   "Olga Battaïa",
+   "Julien Cegarra",
+   "Alexander A. Lazarev"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02057855",
+  "uri_s": "https://hal.science/hal-02057855v1",
+  "docType_s": "COMM",
+  "page_s": "786-789",
+  "doiId_s": "10.1016/j.procir.2018.03.019",
+  "producedDateY_i": 2018,
+  "fileMain_s": "https://hal.science/hal-02057855/document"
+ },
+ {
+  "title_s": [
+   "Operator assignment problem in aircraft assembly lines: a new planning approach taking into account economic and ergonomic constraints"
+  ],
+  "conferenceTitle_s": "7th CIRP Conference on Assembly Technologies and Systems",
+  "authFullName_s": [
+   "Dmitry I. Arkhipov",
+   "Olga Battaïa",
+   "Julien Cegarra",
+   "Alexander A. Lazarev"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02057799",
+  "uri_s": "https://hal.science/hal-02057799v1",
+  "docType_s": "COMM",
+  "page_s": "63-66",
+  "producedDateY_i": 2018,
+  "fileMain_s": "https://hal.science/hal-02057799/document"
+ },
+ {
+  "title_s": [
+   "Time flies faster under time pressure"
+  ],
+  "journalTitle_s": "Acta Psychologica",
+  "authFullName_s": [
+   "Anne-Claire Rattat",
+   "Pauline Matha",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02441455",
+  "uri_s": "https://hal.science/hal-02441455v1",
+  "docType_s": "ART",
+  "page_s": "81-86",
+  "volume_s": "185",
+  "doiId_s": "10.1016/j.actpsy.2018.01.014",
+  "producedDateY_i": 2018
+ },
+ {
+  "title_s": [
+   "Mise en relation de la charge mentale et de l'effort mental à travers une tâche de pointage"
+  ],
+  "conferenceTitle_s": "EPIQUE 2017",
+  "authFullName_s": [
+   "Charlotte Mallat",
+   "Christophe Calmettes",
+   "Rémi L. Capa",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-02505053",
+  "uri_s": "https://hal.science/hal-02505053v1",
+  "docType_s": "COMM",
+  "page_s": "55-62",
+  "publisher_s": [
+   "ARPEGE Science Publishing"
+  ],
+  "producedDateY_i": 2017,
+  "fileMain_s": "https://hal.science/hal-02505053/document"
+ },
+ {
+  "title_s": [
+   "Mise en relation de la charge mentale et de l'effort mental à travers une tâche de pointage"
+  ],
+  "conferenceTitle_s": "Journée scientifique des jeunes chercheurs en psychologie",
+  "authFullName_s": [
+   "Charlotte Mallat",
+   "Christophe Calmettes",
+   "Rémi L. Capa",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02507358",
+  "uri_s": "https://hal.science/hal-02507358v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2017
+ },
+ {
+  "title_s": [
+   "Apports de la psychologie ergonomique à la conception d’IHS en aéronautique"
+  ],
+  "conferenceTitle_s": "12ème Forum technique d’Arcachon",
+  "authFullName_s": [
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-02510963",
+  "uri_s": "https://hal.science/hal-02510963v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2017
+ },
+ {
+  "title_s": [
+   "A neuroergonomics perspective on mental workload predictions in Jens Rasmussen’s SRK framework",
+   "Une perspective neuroergonomique sur les prédictions de la charge mentale issues du modèle cadre SRK de Jens Rasmussen"
+  ],
+  "journalTitle_s": "Le travail humain",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Bruno Baracat",
+   "Christophe Calmettes",
+   "Nadine Matton",
+   "Rémi L. Capa"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-01504061",
+  "uri_s": "https://enac.hal.science/hal-01504061v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "1"
+  ],
+  "page_s": "7-22",
+  "volume_s": "2017",
+  "doiId_s": "10.3917/th.801.0007",
+  "producedDateY_i": 2017
+ },
+ {
+  "title_s": [
+   "Remotely piloted aircrafts in transportation: from technological innovations to communication issues"
+  ],
+  "conferenceTitle_s": "Conférence Innovorg 2017",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Liên Wioland",
+   "Virginie Govaere"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02510981",
+  "uri_s": "https://hal.science/hal-02510981v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2017
+ },
+ {
+  "title_s": [
+   "Perspectives ergonomiques sur la santé : Vers un système de santé capacitant"
+  ],
+  "conferenceTitle_s": "Du patient à l’organisation, la santé dans tous ses états",
+  "authFullName_s": [
+   "Vanina Mollo",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-02904105",
+  "uri_s": "https://hal.science/hal-02904105v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2017
+ },
+ {
+  "title_s": [
+   "Resource load-based makespan estimation algorithm for resource-constrained project scheduling problem"
+  ],
+  "conferenceTitle_s": "ROADEF 2017",
+  "authFullName_s": [
+   "Dmitry Arkhipov",
+   "Olga Battaïa",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02500517",
+  "uri_s": "https://hal.science/hal-02500517v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2017,
+  "fileMain_s": "https://hal.science/hal-02500517/document"
+ },
+ {
+  "title_s": [
+   "L'effort mental, le thermomètre de notre cerveau"
+  ],
+  "authFullName_s": [
+   "Charlotte Mallat",
+   "Julien Cegarra",
+   "Christophe Calmettes",
+   "Rémi L. Capa"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-02510941",
+  "uri_s": "https://hal.science/hal-02510941v1",
+  "docType_s": "OTHER",
+  "producedDateY_i": 2017
+ },
+ {
+  "title_s": [
+   "Neuroergonomics: measuring the human operator’s brain in ecological settings",
+   "Neuroergonomie : mesurer le cerveau de l'opérateur en situation écologique"
+  ],
+  "journalTitle_s": "Le travail humain",
+  "authFullName_s": [
+   "Frédéric Dehais",
+   "Mickaël Causse",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02439015",
+  "uri_s": "https://hal.science/hal-02439015v1",
+  "docType_s": "ISSUE",
+  "issue_s": [
+   "1"
+  ],
+  "page_s": "1-6",
+  "volume_s": "80",
+  "doiId_s": "10.3917/th.801.0001",
+  "producedDateY_i": 2017
+ },
+ {
+  "title_s": [
+   "Effect of Daylight Saving Time on Punctuality for Medical Appointments"
+  ],
+  "journalTitle_s": "Applied Cognitive Psychology",
+  "authFullName_s": [
+   "Marie-Françoise Valax",
+   "Anne-Claire Rattat",
+   "Bruno Baracat",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02430517",
+  "uri_s": "https://hal.science/hal-02430517v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "6"
+  ],
+  "page_s": "911-916",
+  "volume_s": "30",
+  "doiId_s": "10.1002/acp.3278",
+  "producedDateY_i": 2016
+ },
+ {
+  "title_s": [
+   "The impact of operators’ profession and experience and informational uncertainty during an advert event occurring in a surgical operation: A combined evaluation of situation awareness using SAGAT and eye tracking"
+  ],
+  "conferenceTitle_s": "5th edition HEPS conference: « Healthcare and society: new challenges, new opportunities »",
+  "authFullName_s": [
+   "Gilles Devreux",
+   "Aline Chevalier",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02904098",
+  "uri_s": "https://hal.science/hal-02904098v1",
+  "docType_s": "POSTER",
+  "producedDateY_i": 2016
+ },
+ {
+  "title_s": [
+   "Differences in Multitask Resource Reallocation After Change in Task Values"
+  ],
+  "journalTitle_s": "Human Factors",
+  "authFullName_s": [
+   "Nadine Matton",
+   "Pierre-Vincent Paubel",
+   "Julien Cegarra",
+   "Éric Raufaste"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-01356925",
+  "uri_s": "https://enac.hal.science/hal-01356925v1",
+  "docType_s": "ART",
+  "doiId_s": "10.1177/0018720816662543",
+  "producedDateY_i": 2016,
+  "fileMain_s": "https://enac.hal.science/hal-01356925/document"
+ },
+ {
+  "title_s": [
+   "Effect of time pressure on time-based prospective memory"
+  ],
+  "conferenceTitle_s": "31st International Congress of Psychology (ICP)",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Pauline Matha",
+   "Anne-Claire Rattat",
+   "Marie-Françoise Valax"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02903615",
+  "uri_s": "https://hal.science/hal-02903615v1",
+  "docType_s": "POSTER",
+  "producedDateY_i": 2016
+ },
+ {
+  "title_s": [
+   "Associer l’ingénierie système et le Cognitive Work Analysis pour soutenir l’intégration Homme-Système"
+  ],
+  "conferenceTitle_s": "Ergo’IA 2016",
+  "authFullName_s": [
+   "Camille Raymond",
+   "Daniel Prun",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-01626011",
+  "uri_s": "https://enac.hal.science/hal-01626011v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2016,
+  "fileMain_s": "https://enac.hal.science/hal-01626011/document"
+ },
+ {
+  "title_s": [
+   "Cartes conceptuelles pour la formation : rôle des connaissances antérieures et de la consigne"
+  ],
+  "conferenceTitle_s": "EPIQUE 2015",
+  "authFullName_s": [
+   "Aline Chevalier",
+   "Julien Cegarra",
+   "Franck Amadieu",
+   "Julie Lemarié",
+   "Ladislao Salmerón"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-02508984",
+  "uri_s": "https://hal.science/hal-02508984v1",
+  "docType_s": "POSTER",
+  "publisher_s": [
+   "ARPEGE Science Publishing"
+  ],
+  "producedDateY_i": 2015,
+  "fileMain_s": "https://hal.science/hal-02508984/document"
+ },
+ {
+  "title_s": [
+   "Apports des verbalisations pour l’analyse de la gestion de l’incertitude des exploitants de transports"
+  ],
+  "conferenceTitle_s": "EPIQUE 2015",
+  "authFullName_s": [
+   "Koosha Khademi",
+   "Julien Cegarra",
+   "Pierre Lopez"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-02502285",
+  "uri_s": "https://hal.science/hal-02502285v1",
+  "docType_s": "COMM",
+  "publisher_s": [
+   "Arpege Science Publishing"
+  ],
+  "producedDateY_i": 2015
+ },
+ {
+  "title_s": [
+   "Organisation du symposium \"Regards croisés sur le secteur du transport et de la logistique : ergonomie, sociologie et psycholinguistique"
+  ],
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Virginie Govaere",
+   "Liên Wioland"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-02510881",
+  "uri_s": "https://hal.science/hal-02510881v1",
+  "docType_s": "OTHER",
+  "producedDateY_i": 2015
+ },
+ {
+  "title_s": [
+   "Learning from Concept Mapping and Hypertext: An Eye Tracking Study"
+  ],
+  "journalTitle_s": "Journal of Educational Technology and Society",
+  "authFullName_s": [
+   "Franck Amadieu",
+   "Ladislao Salmerón",
+   "Julien Cegarra",
+   "Pierre-Vincent Paubel",
+   "Julie Lemarié",
+   "Aline Chevalier"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02366392",
+  "uri_s": "https://hal.science/hal-02366392v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "4"
+  ],
+  "page_s": "100-112",
+  "volume_s": "18",
+  "producedDateY_i": 2015,
+  "fileMain_s": "https://hal.science/hal-02366392/document"
+ },
+ {
+  "title_s": [
+   "La planification par l'exploitant dans le transport routier de marchandises : enseignements et perspectives issus d'une démarche d'analyse empirique. Partie 3"
+  ],
+  "authFullName_s": [
+   "Koosha Kadhemi",
+   "Julien Cegarra",
+   "Virginie Govaere",
+   "Liên Wioland"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-01428751",
+  "uri_s": "https://hal-lara.archives-ouvertes.fr/hal-01428751v1",
+  "docType_s": "REPORT",
+  "page_s": "54p.",
+  "producedDateY_i": 2015,
+  "fileMain_s": "https://hal-lara.archives-ouvertes.fr/hal-01428751/document"
+ },
+ {
+  "title_s": [
+   "La planification par l'exploitant dans le transport routier de marchandises : méthode d'analyse et perspectives d'application inter-domaines. Partie 2"
+  ],
+  "authFullName_s": [
+   "Koosha Kadhemi",
+   "Julien Cegarra",
+   "Virginie Govaere",
+   "Liên Wioland"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-01428640",
+  "uri_s": "https://hal-lara.archives-ouvertes.fr/hal-01428640v1",
+  "docType_s": "REPORT",
+  "page_s": "68",
+  "producedDateY_i": 2015,
+  "fileMain_s": "https://hal-lara.archives-ouvertes.fr/hal-01428640/document"
+ },
+ {
+  "title_s": [
+   "La planification par l'exploitant dans le transport routier de marchandises : contributions théoriques et méthodologiques. Partie 1"
+  ],
+  "authFullName_s": [
+   "Koosha Kadhemi",
+   "Julien Cegarra",
+   "Virginie Govaere",
+   "Liên Wioland"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-01427890",
+  "uri_s": "https://hal-lara.archives-ouvertes.fr/hal-01427890v1",
+  "docType_s": "REPORT",
+  "page_s": "65",
+  "producedDateY_i": 2015,
+  "fileMain_s": "https://hal-lara.archives-ouvertes.fr/hal-01427890/document"
+ },
+ {
+  "title_s": [
+   "Timing in time perception and prospective memory"
+  ],
+  "conferenceTitle_s": "28th International Congress of Applied Psychology - ICAP 2014",
+  "authFullName_s": [
+   "Pauline Matha",
+   "Anne-Claire Rattat",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02900725",
+  "uri_s": "https://hal.science/hal-02900725v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2014
+ },
+ {
+  "title_s": [
+   "Clarifying the link between mental workload and cognitive control: a study based on Rasmussen's step ladder model."
+  ],
+  "conferenceTitle_s": "ICAP 2014, 28th International Congres of Applied Psychology",
+  "authFullName_s": [
+   "Coralie Giavarini",
+   "Julien Cegarra",
+   "Bruno Baracat",
+   "C. Camettes",
+   "Nadine Matton",
+   "Jean-Marc André"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-01704494",
+  "uri_s": "https://hal.science/hal-01704494v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2014
+ },
+ {
+  "title_s": [
+   "Designing Interdisciplinary Scheduling Decision Support Systems in Small-Sized SME Environments: The i-DESME Framework"
+  ],
+  "conferenceTitle_s": "IFIP International Conference on Advances in Production Management Systems (APMS)",
+  "authFullName_s": [
+   "Christos Dimopoulos",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-01388513",
+  "uri_s": "https://inria.hal.science/hal-01388513v1",
+  "docType_s": "COMM",
+  "issue_s": [
+   "Part I"
+  ],
+  "page_s": "355-362",
+  "publisher_s": [
+   "Springer"
+  ],
+  "volume_s": "AICT-438",
+  "doiId_s": "10.1007/978-3-662-44739-0_43",
+  "producedDateY_i": 2014,
+  "fileMain_s": "https://inria.hal.science/hal-01388513/document"
+ },
+ {
+  "title_s": [
+   "Prior knowledge and coherence processing in concept mapping from hypertext"
+  ],
+  "conferenceTitle_s": "EARLI SIG 2 Meeting \"Comprehension of Text and Graphics\"",
+  "authFullName_s": [
+   "Franck Amadieu",
+   "Ladislao Salmerón",
+   "Julien Cegarra",
+   "Pierre-Vincent Paubel",
+   "Julie Lemarié",
+   "Aline Chevalier"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05837044",
+  "uri_s": "https://hal.science/hal-05837044v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2014
+ },
+ {
+  "title_s": [
+   "Effects of building vs. studying a concept map on hypertext comprehension"
+  ],
+  "conferenceTitle_s": "EARLI SIG2",
+  "authFullName_s": [
+   "Julie Lemarié",
+   "Franck Amadieu",
+   "Ladislao Salmerón",
+   "Julien Cegarra",
+   "Pierre-Vincent Paubel",
+   "Aline Chevalier"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02504893",
+  "uri_s": "https://hal.science/hal-02504893v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2014
+ },
+ {
+  "title_s": [
+   "Time production under time pressure"
+  ],
+  "conferenceTitle_s": "2nd International Conference on Time Perspective",
+  "authFullName_s": [
+   "Pauline Matha",
+   "Anne-Claire Rattat",
+   "Julien Cegarra",
+   "Marie-Françoise Valax"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02900776",
+  "uri_s": "https://hal.science/hal-02900776v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2014
+ },
+ {
+  "title_s": [
+   "Resource allocation strategies in multitasking after switch in task priorities"
+  ],
+  "conferenceTitle_s": "AHFE 2014, 5th International Conference on Applied Human Factors and Ergonomics",
+  "authFullName_s": [
+   "Nadine Matton",
+   "Pierre-Vincent Paubel",
+   "Éric Raufaste",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-01116661",
+  "uri_s": "https://enac.hal.science/hal-01116661v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2014
+ },
+ {
+  "title_s": [
+   "Challenges in analyzing collaborative activities in complex real-work settings: Reflexion on methods used in ergonomic psychology"
+  ],
+  "conferenceTitle_s": "28th International Congress of Applied Psychology (ICAP 2014)",
+  "authFullName_s": [
+   "Koosha Khademi",
+   "Julien Cegarra",
+   "Liên Wioland",
+   "Virginie Govaere",
+   "Pierre Lopez"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05837057",
+  "uri_s": "https://hal.science/hal-05837057v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2014
+ },
+ {
+  "title_s": [
+   "The role of expertise and team situation awareness in a dynamic system: the case of the operating room"
+  ],
+  "conferenceTitle_s": "28th International Congress of Applied Psychology (ICAP 2014)",
+  "authFullName_s": [
+   "Gilles Devreux",
+   "Géraldine Faure",
+   "Aline Chevalier",
+   "Julien Cegarra",
+   "Vincent Lubrano",
+   "Thomas Rodsphon"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05837053",
+  "uri_s": "https://hal.science/hal-05837053v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2014
+ },
+ {
+  "title_s": [
+   "Measuring how comprehension evolves during a concept mapping vs. map studying task"
+  ],
+  "conferenceTitle_s": "7th International Cognitive Load Theory Conference (ICLTC 2014)",
+  "authFullName_s": [
+   "Julie Lemarié",
+   "Franck Amadieu",
+   "Ladislao Salmerón",
+   "Julien Cegarra",
+   "Pierre-Vincent Paubel",
+   "Aline Chevalier"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05837059",
+  "uri_s": "https://hal.science/hal-05837059v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2014
+ },
+ {
+  "title_s": [
+   "Effets de la pression temporelle sur les estimations de durées"
+  ],
+  "journalTitle_s": "Psychologie Française",
+  "authFullName_s": [
+   "P. Matha",
+   "A.-C. Rattat",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-03346272",
+  "uri_s": "https://hal.science/hal-03346272v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "2"
+  ],
+  "page_s": "101-110",
+  "volume_s": "59",
+  "doiId_s": "10.1016/j.psfr.2013.09.003",
+  "producedDateY_i": 2014
+ },
+ {
+  "title_s": [
+   "Learning from hypertext with a concept map: individual differences, online processes and performance"
+  ],
+  "conferenceTitle_s": "15th Biennial Conference of the European Association for Research on Learning and Instruction (EARLI 2013)",
+  "authFullName_s": [
+   "Franck Amadieu",
+   "Julien Cegarra",
+   "Ladislao Salmerón",
+   "Julie Lemarié",
+   "Aline Chevalier",
+   "Pierre-Vincent Paubel"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05837073",
+  "uri_s": "https://hal.science/hal-05837073v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2013
+ },
+ {
+  "title_s": [
+   "Does elaborating concept maps in hypertexts support comprehension?"
+  ],
+  "conferenceTitle_s": "15th Biennial Conference of the European Association for Research on Learning and Instruction (EARLI 2013)",
+  "authFullName_s": [
+   "Franck Amadieu",
+   "Julien Cegarra",
+   "Ladislao Salmerón",
+   "Julie Lemarié",
+   "Aline Chevalier",
+   "Pierre-Vincent Paubel"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05837072",
+  "uri_s": "https://hal.science/hal-05837072v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2013
+ },
+ {
+  "title_s": [
+   "Evolution de la charge mentale selon le niveau de formation : une étude auprès de contrôleurs aériens confrontés à un nouvel outil"
+  ],
+  "conferenceTitle_s": "7e colloque de Psychologie Ergonomique (EPIQUE 2013)",
+  "authFullName_s": [
+   "Caroline Martin",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05837066",
+  "uri_s": "https://hal.science/hal-05837066v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2013
+ },
+ {
+  "title_s": [
+   "Concept mapping in a hypertext environment: starting by reading text sections or building a map?"
+  ],
+  "conferenceTitle_s": "6th International Cognitive Load Theory Conference (ICLTC 2013)",
+  "authFullName_s": [
+   "Franck Amadieu",
+   "Julien Cegarra",
+   "Pierre-Vincent Paubel",
+   "Julie Lemarié",
+   "Aline Chevalier",
+   "Ladislao Salmerón"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05837069",
+  "uri_s": "https://hal.science/hal-05837069v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2013
+ },
+ {
+  "title_s": [
+   "La charge mentale de travail : un concept qui reste indispensable, l'exemple de l'aéronautique"
+  ],
+  "journalTitle_s": "Le travail humain",
+  "authFullName_s": [
+   "Caroline Martin",
+   "Sylvain Hourlier",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-03346278",
+  "uri_s": "https://hal.science/hal-03346278v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "4"
+  ],
+  "page_s": "285",
+  "volume_s": "76",
+  "doiId_s": "10.3917/th.764.0285",
+  "producedDateY_i": 2013
+ },
+ {
+  "title_s": [
+   "Investigating cognitive control for situation awareness: A psychophysiological approach ?"
+  ],
+  "conferenceTitle_s": "HFES, Europe Chapter",
+  "authFullName_s": [
+   "Coralie Giavarini",
+   "Bruno Baracat",
+   "Julien Cegarra",
+   "Jean-­‐marc Andre"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-01704460",
+  "uri_s": "https://hal.science/hal-01704460v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2012
+ },
+ {
+  "title_s": [
+   "Effect generated by the use of a new all-electronic Air Traffic Control position on the level of mental workload felt by Air Traffic Controllers"
+  ],
+  "conferenceTitle_s": "Human Factors and Ergonomics Society Europe Chapter Annual Meeting 2012",
+  "authFullName_s": [
+   "Caroline Martin",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05837084",
+  "uri_s": "https://hal.science/hal-05837084v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2012
+ },
+ {
+  "title_s": [
+   "Évaluation de la charge mentale de contrôleurs aériens lors de l'utilisation d'une interface tout électronique"
+  ],
+  "conferenceTitle_s": "Ergo'IHM 2012",
+  "authFullName_s": [
+   "Caroline Martin",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05837082",
+  "uri_s": "https://hal.science/hal-05837082v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2012
+ },
+ {
+  "title_s": [
+   "Etude du mode de contrôle lors d'interférences proactives : une caractérisation psychophysiologique"
+  ],
+  "conferenceTitle_s": "54eme congrès annuel de la Société Française de psychologie",
+  "authFullName_s": [
+   "Coralie Giavarini",
+   "Bruno Baracat",
+   "Julien Cegarra",
+   "Jean-Marc André"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-01704469",
+  "uri_s": "https://hal.science/hal-01704469v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2012
+ },
+ {
+  "title_s": [
+   "Implications of technological changes in vehicle routing interfaces for planners' constraint processing"
+  ],
+  "journalTitle_s": "Human Factors and Ergonomics in Manufacturing and Service Industries",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Bernat Gacias",
+   "Pierre Lopez"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-00710294",
+  "uri_s": "https://hal.science/hal-00710294v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "5"
+  ],
+  "page_s": "pp. 468-480",
+  "volume_s": "22",
+  "producedDateY_i": 2012,
+  "fileMain_s": "https://hal.science/hal-00710294/document"
+ },
+ {
+  "title_s": [
+   "Developing interdisciplinary specifications for the design and implementation of IT scheduling decision support systems: An SME case study"
+  ],
+  "conferenceTitle_s": "10th International Conference on Manufacturing Research (ICMR 2012)",
+  "authFullName_s": [
+   "Christos Dimopoulos",
+   "Julien Cegarra",
+   "George Gavriel"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05837092",
+  "uri_s": "https://hal.science/hal-05837092v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2012
+ },
+ {
+  "title_s": [
+   "Effets de la pression temporelle sur les estimations de durées"
+  ],
+  "conferenceTitle_s": "Congrès de la Société Française de Psychologie (SFP 2012)",
+  "authFullName_s": [
+   "Pauline Matha",
+   "Anne-Claire Rattat",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05837090",
+  "uri_s": "https://hal.science/hal-05837090v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2012
+ },
+ {
+  "title_s": [
+   "Contributions méthodologiques en Psychologie Ergonomique et Psycholinguistique pour l'analyse de l'activité cognitive d'opérateurs"
+  ],
+  "conferenceTitle_s": "Congrès de la Société Française de Psychologie (SFP 2012)",
+  "authFullName_s": [
+   "Koosha Khademi",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05837087",
+  "uri_s": "https://hal.science/hal-05837087v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2012
+ },
+ {
+  "title_s": [
+   "Revisiting Decision Support Systems for Cognitive Readiness"
+  ],
+  "journalTitle_s": "Journal of Cognitive Engineering and Decision Making",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Wout van Wezel"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-03346289",
+  "uri_s": "https://hal.science/hal-03346289v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "3"
+  ],
+  "page_s": "299-324",
+  "volume_s": "6",
+  "doiId_s": "10.1177/1555343412448385",
+  "producedDateY_i": 2012
+ },
+ {
+  "title_s": [
+   "Effects of constructing concept maps while navigating in a hypertext"
+  ],
+  "conferenceTitle_s": "EARLI SIG 2 Meeting \"Comprehension of Text and Graphics\"",
+  "authFullName_s": [
+   "Franck Amadieu",
+   "Julien Cegarra",
+   "Ladislao Salmerón",
+   "Julie Lemarié",
+   "Aline Chevalier",
+   "S. Blat"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05837076",
+  "uri_s": "https://hal.science/hal-05837076v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2012
+ },
+ {
+  "title_s": [
+   "Scheduler-oriented algorithms to improve human-machine cooperation in transportation scheduling support systems"
+  ],
+  "journalTitle_s": "Engineering Applications of Artificial Intelligence",
+  "authFullName_s": [
+   "Bernat Gacias",
+   "Julien Cegarra",
+   "Pierre Lopez"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-00661305",
+  "uri_s": "https://hal.science/hal-00661305v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "4"
+  ],
+  "page_s": "p 801-813",
+  "volume_s": "25",
+  "producedDateY_i": 2012,
+  "fileMain_s": "https://hal.science/hal-00661305/document"
+ },
+ {
+  "title_s": [
+   "Freins à l'acceptabilité du covoiturage dynamique : projet Acody-Mipy sur l'ergonomie des applications"
+  ],
+  "conferenceTitle_s": "Congrès ATEC-ITS France 2012 \"Intelligence dans les déplacements\"",
+  "authFullName_s": [
+   "F. Schettini",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05837095",
+  "uri_s": "https://hal.science/hal-05837095v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2012
+ },
+ {
+  "title_s": [
+   "Analyse de la charge mentale de contrôleurs aériens lors de l'utilisation d'une nouvelle IHM"
+  ],
+  "conferenceTitle_s": "6e colloque de Psychologie Ergonomique (EPIQUE 2011)",
+  "authFullName_s": [
+   "Caroline Martin",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05837096",
+  "uri_s": "https://hal.science/hal-05837096v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2011
+ },
+ {
+  "title_s": [
+   "Analysis of Mental Workload during En-route Air Traffic Control Task Execution Based on Eye-Tracking Technique"
+  ],
+  "conferenceTitle_s": "EPCE 2011:  International Conference on Engineering Psychology and Cognitive Ergonomics",
+  "authFullName_s": [
+   "Caroline Martin",
+   "Julien Cegarra",
+   "Philippe Averty"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-02954477",
+  "uri_s": "https://enac.hal.science/hal-02954477v1",
+  "docType_s": "COMM",
+  "page_s": "592-597/ISBN: 978-3-642-21741-8",
+  "publisher_s": [
+   "Springer"
+  ],
+  "volume_s": "6781",
+  "doiId_s": "10.1007/978-3-642-21741-8_63",
+  "producedDateY_i": 2011
+ },
+ {
+  "title_s": [
+   "Contribution de l'ergonomie à la sécurité aérienne"
+  ],
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Frédéric Dehais",
+   "Mickaël Causse",
+   "Caroline Martin"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05836839",
+  "uri_s": "https://hal.science/hal-05836839v1",
+  "docType_s": "COUV",
+  "bookTitle_s": "L'ergonomie au service de la vie quotidienne. Les objets et environnements numériques",
+  "publisher_s": [
+   "Hermès-Lavoisier"
+  ],
+  "producedDateY_i": 2011
+ },
+ {
+  "title_s": [
+   "L'activité des conducteurs de travaux sur les chantiers de construction : ordonnancement et supervision d'une situation dynamique"
+  ],
+  "journalTitle_s": "Le travail humain",
+  "authFullName_s": [
+   "Justine Forrierre",
+   "Françoise Anceaux",
+   "Julien Cegarra",
+   "Francis Six"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-03346315",
+  "uri_s": "https://hal.science/hal-03346315v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "3"
+  ],
+  "page_s": "283",
+  "volume_s": "74",
+  "doiId_s": "10.3917/th.743.04",
+  "producedDateY_i": 2011
+ },
+ {
+  "title_s": [
+   "Work domain analysis and ecological interface for the vehicle routing problem"
+  ],
+  "conferenceTitle_s": "11th IFAC/IFIP/IFORS/IEA Symposium on Analysis, Design and Evaluation of Human-Machine System",
+  "authFullName_s": [
+   "Bernat Gacias",
+   "Julien Cegarra",
+   "Pierre Lopez"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-00490382",
+  "uri_s": "https://hal.science/hal-00490382v1",
+  "docType_s": "COMM",
+  "page_s": "6p.",
+  "producedDateY_i": 2010,
+  "fileMain_s": "https://hal.science/hal-00490382/document"
+ },
+ {
+  "title_s": [
+   "Building Decision Support Systems for Acceptance"
+  ],
+  "authFullName_s": [
+   "Ralph Riedel",
+   "Jan Fransoo",
+   "Vincent Wiers",
+   "Katrin Fischer",
+   "Julien Cegarra",
+   "David Jentsch"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05836806",
+  "uri_s": "https://hal.science/hal-05836806v1",
+  "docType_s": "COUV",
+  "bookTitle_s": "Behavioral Operations in Planning and Scheduling",
+  "page_s": "231-295",
+  "publisher_s": [
+   "Springer Berlin Heidelberg"
+  ],
+  "doiId_s": "10.1007/978-3-642-13382-4_11",
+  "producedDateY_i": 2010
+ },
+ {
+  "title_s": [
+   "A Comparison of Task Analysis Methods for Planning and Scheduling"
+  ],
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Wout van Wezel"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05836798",
+  "uri_s": "https://hal.science/hal-05836798v1",
+  "docType_s": "COUV",
+  "bookTitle_s": "Behavioral Operations in Planning and Scheduling",
+  "page_s": "323-338",
+  "publisher_s": [
+   "Springer Berlin Heidelberg"
+  ],
+  "doiId_s": "10.1007/978-3-642-13382-4_13",
+  "producedDateY_i": 2010
+ },
+ {
+  "title_s": [
+   "A decision support system for vehicle routing based on model inversion and data analysis"
+  ],
+  "conferenceTitle_s": "International Conference of Modeling and Simulation ( MOSIM'10)",
+  "authFullName_s": [
+   "Bernat Gacias",
+   "Pierre Lopez",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-00484249",
+  "uri_s": "https://hal.science/hal-00484249v1",
+  "docType_s": "COMM",
+  "page_s": "10p.",
+  "producedDateY_i": 2010,
+  "fileMain_s": "https://hal.science/hal-00484249/document"
+ },
+ {
+  "title_s": [
+   "Allocating functions to human and algorithm in scheduling"
+  ],
+  "authFullName_s": [
+   "Wout van Wezel",
+   "Jean-Michel Hoc",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-00521399",
+  "uri_s": "https://hal.science/hal-00521399v1",
+  "docType_s": "COUV",
+  "bookTitle_s": "Behavioral operations in planning and scheduling",
+  "page_s": "339-370",
+  "publisher_s": [
+   "Springer"
+  ],
+  "producedDateY_i": 2010
+ },
+ {
+  "title_s": [
+   "Étude des propriétés de la version francophone du NASA-TLX"
+  ],
+  "conferenceTitle_s": "5ème Colloque de Psychologie Ergonomique EPIQUE",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Nicolas Morgado"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05374069",
+  "uri_s": "https://hal.science/hal-05374069v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2009,
+  "fileMain_s": "https://hal.science/hal-05374069/document"
+ },
+ {
+  "title_s": [
+   "Prospective Memory time-based: Effects of daylight saving time on the memory of appointments"
+  ],
+  "conferenceTitle_s": "XVIth Conference of the European Society for Cognitive Psychology (ESCOP 2009)",
+  "authFullName_s": [
+   "Marie-Françoise Valax",
+   "Bruno Baracat",
+   "Julien Cegarra",
+   "Anne-Claire Rattat"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05837099",
+  "uri_s": "https://hal.science/hal-05837099v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2009
+ },
+ {
+  "title_s": [
+   "An interdisciplinary method for a generic vehicle routing problem decision support system"
+  ],
+  "conferenceTitle_s": "International Conference on Industrial Engineering and Systems Management (IESM 2009)",
+  "authFullName_s": [
+   "Bernat Gacias",
+   "Julien Cegarra",
+   "Pierre Lopez"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-00370060",
+  "uri_s": "https://hal.science/hal-00370060v1",
+  "docType_s": "COMM",
+  "page_s": "CD-Rom Session 9A",
+  "producedDateY_i": 2009,
+  "fileMain_s": "https://hal.science/hal-00370060/document"
+ },
+ {
+  "title_s": [
+   "Analyse du domaine de travail pour les problèmes de tournées de véhicules"
+  ],
+  "authFullName_s": [
+   "Bernat Gacias",
+   "Julien Cegarra",
+   "Pierre Lopez"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-00362317",
+  "uri_s": "https://hal.science/hal-00362317v1",
+  "docType_s": "UNDEFINED",
+  "producedDateY_i": 2009,
+  "fileMain_s": "https://hal.science/hal-00362317/document"
+ },
+ {
+  "title_s": [
+   "The use of Tholos software for combining measures of mental workload: Toward theoretical and methodological improvements"
+  ],
+  "journalTitle_s": "Behavior Research Methods",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Aline Chevalier"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-03346293",
+  "uri_s": "https://hal.science/hal-03346293v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "4"
+  ],
+  "page_s": "988-1000",
+  "volume_s": "40",
+  "doiId_s": "10.3758/BRM.40.4.988",
+  "producedDateY_i": 2008
+ },
+ {
+  "title_s": [
+   "Quelles sont les ressources sous-jacentes aux estimations de durées écoulées ?"
+  ],
+  "conferenceTitle_s": "Congrès de la Société Française de Psychologie (SFP 2008)",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Anne-Claire Rattat",
+   "Marie-Françoise Valax"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05837110",
+  "uri_s": "https://hal.science/hal-05837110v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2008
+ },
+ {
+  "title_s": [
+   "A work domain analysis for the Vehicle Routing Problem"
+  ],
+  "conferenceTitle_s": "1st Human and Organisational Factors in Planning and Scheduling Conference (HOPS 2008)",
+  "authFullName_s": [
+   "Bernat Gacias",
+   "Pierre Lopez",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05837102",
+  "uri_s": "https://hal.science/hal-05837102v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2008
+ },
+ {
+  "title_s": [
+   "Estimer la durée d'une tâche par une barre de progression : horloge interne ou représentation spatiale ?"
+  ],
+  "conferenceTitle_s": "14e Journée d'Étude sur le Traitement Cognitif des Systèmes d'Information Complexes (JETCSIC 2008)",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Anne-Claire Rattat",
+   "Marie-Françoise Valax"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05837112",
+  "uri_s": "https://hal.science/hal-05837112v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2008
+ },
+ {
+  "title_s": [
+   "A cognitive typology of scheduling situations: a contribution to laboratory and field studies"
+  ],
+  "journalTitle_s": "Theoretical Issues in Ergonomics Science",
+  "authFullName_s": [
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-03346297",
+  "uri_s": "https://hal.science/hal-03346297v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "3"
+  ],
+  "page_s": "201-222",
+  "volume_s": "9",
+  "doiId_s": "10.1080/14639220601095379",
+  "producedDateY_i": 2008
+ },
+ {
+  "title_s": [
+   "The Role of Algorithm and Result Comprehensibility of Automated Scheduling on Complacency"
+  ],
+  "journalTitle_s": "Human Factors and Ergonomics in Manufacturing and Service Industries",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Jean-Michel Hoc"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-00396027",
+  "uri_s": "https://hal.science/hal-00396027v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "6"
+  ],
+  "page_s": "603-620",
+  "volume_s": "18",
+  "producedDateY_i": 2008
+ },
+ {
+  "title_s": [
+   "Une approche psychologique de la notion de contrainte en résolution de problèmes"
+  ],
+  "journalTitle_s": "Le travail humain",
+  "authFullName_s": [
+   "A. Chevalier",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-03346298",
+  "uri_s": "https://hal.science/hal-03346298v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "2"
+  ],
+  "page_s": "173",
+  "volume_s": "71",
+  "doiId_s": "10.3917/th.712.0173",
+  "producedDateY_i": 2008
+ },
+ {
+  "title_s": [
+   "Réduction de la complexité dans la planification des transports. Une étude de l'élaboration de tournées de véhicules"
+  ],
+  "conferenceTitle_s": "4èmes Journées d'étude en psychologie ergonomique (EPIQUE 2007)",
+  "authFullName_s": [
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05837114",
+  "uri_s": "https://hal.science/hal-05837114v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2007
+ },
+ {
+  "title_s": [
+   "Theoretical and Methodological Considerations in the Comparison of Performance and Physiological Measures of Mental Workload"
+  ],
+  "conferenceTitle_s": "12th International Conference on Human-Computer Interaction (HCI International 2007)",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Aline Chevalier"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05836822",
+  "uri_s": "https://hal.science/hal-05836822v1",
+  "docType_s": "COMM",
+  "page_s": "264-268",
+  "publisher_s": [
+   "Springer Berlin Heidelberg"
+  ],
+  "volume_s": "4562",
+  "doiId_s": "10.1007/978-3-540-73331-7_28",
+  "producedDateY_i": 2007
+ },
+ {
+  "title_s": [
+   "Trust in Decision Support Systems - conceptual model and empirical insights to foster acceptance and usage"
+  ],
+  "conferenceTitle_s": "11th International Conference on Human Aspects of Advanced Manufacturing: Agility and Hybrid Automation (HAAMAHA'07)",
+  "authFullName_s": [
+   "Jan C Fransoo",
+   "Ralph Riedel",
+   "Vincent Wiers",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05837123",
+  "uri_s": "https://hal.science/hal-05837123v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2007
+ },
+ {
+  "title_s": [
+   "Developing user-oriented scheduling algorithms"
+  ],
+  "conferenceTitle_s": "14th International Annual EurOMA Conference",
+  "authFullName_s": [
+   "Wout van Wezel",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05837124",
+  "uri_s": "https://hal.science/hal-05837124v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2007
+ },
+ {
+  "title_s": [
+   "A Constraint-Satisfaction Approach to Studying the Management of Multiple Objectives in Design Problem-Solving"
+  ],
+  "journalTitle_s": "Psychological Reports",
+  "authFullName_s": [
+   "Aline Chevalier",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-03346308",
+  "uri_s": "https://hal.science/hal-03346308v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "2"
+  ],
+  "page_s": "488-493",
+  "volume_s": "99",
+  "doiId_s": "10.2466/pr0.99.2.488-493",
+  "producedDateY_i": 2006
+ },
+ {
+  "title_s": [
+   "Psychologie différentielle et psychologie ergonomique : des points de vue à réconcilier ?"
+  ],
+  "conferenceTitle_s": "XVIIes Journées de Psychologie Différentielle",
+  "authFullName_s": [
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05836843",
+  "uri_s": "https://hal.science/hal-05836843v1",
+  "docType_s": "COMM",
+  "page_s": "543-546",
+  "publisher_s": [
+   "Presses Universitaires de Rennes"
+  ],
+  "producedDateY_i": 2006
+ },
+ {
+  "title_s": [
+   "A task allocation model for planning"
+  ],
+  "conferenceTitle_s": "16th World Congress on Ergonomics (IEA 2006)",
+  "authFullName_s": [
+   "Wout van Wezel",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05836856",
+  "uri_s": "https://hal.science/hal-05836856v1",
+  "docType_s": "COMM",
+  "page_s": "1897-1902",
+  "publisher_s": [
+   "Elsevier"
+  ],
+  "producedDateY_i": 2006
+ },
+ {
+  "title_s": [
+   "The role of algorithm comprehensibility on complacency in automated scheduling"
+  ],
+  "conferenceTitle_s": "16th World Congress on Ergonomics (IEA 2006)",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Jean-Michel Hoc"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05836850",
+  "uri_s": "https://hal.science/hal-05836850v1",
+  "docType_s": "COMM",
+  "page_s": "1903-1908",
+  "publisher_s": [
+   "Elsevier"
+  ],
+  "producedDateY_i": 2006
+ },
+ {
+  "title_s": [
+   "Cognitive styles as an explanation of experts' individual differences: a case study in computer-assisted troubleshooting diagnosis."
+  ],
+  "journalTitle_s": "International Journal of Human-Computer Studies",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Jean-Michel Hoc"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-00403642",
+  "uri_s": "https://hal.science/hal-00403642v1",
+  "docType_s": "ART",
+  "page_s": "123-136",
+  "volume_s": "64",
+  "producedDateY_i": 2006
+ },
+ {
+  "title_s": [
+   "Différences inter-individuelles entre opérateurs experts : Apport des styles cognitifs aux études de Psychologie Ergonomique"
+  ],
+  "conferenceTitle_s": "Congrès de la Société Française de Psychologie (SFP 2005)",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Jean-Michel Hoc"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05837125",
+  "uri_s": "https://hal.science/hal-05837125v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2005
+ },
+ {
+  "title_s": [
+   "Function allocation in scheduling: Using a cognitive typology to design algorithmic support for scheduling subtasks"
+  ],
+  "conferenceTitle_s": "7th International Workshop on Human Factors in Planning, Scheduling and Control in Manufacturing",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Wout van Wezel"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05837129",
+  "uri_s": "https://hal.science/hal-05837129v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2005
+ },
+ {
+  "title_s": [
+   "Effet de « contentement » dans la coopération Homme-machine en ordonnancement"
+  ],
+  "conferenceTitle_s": "3èmes Journées d'étude en psychologie ergonomique (EPIQUE 2005)",
+  "authFullName_s": [
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05836861",
+  "uri_s": "https://hal.science/hal-05836861v1",
+  "docType_s": "COMM",
+  "page_s": "107-113",
+  "publisher_s": [
+   "Presses de l'Université Toulouse le Mirail"
+  ],
+  "producedDateY_i": 2005
+ },
+ {
+  "title_s": [
+   "Quels sont les effets de la qualité ergonomique d'un site web et de l'expérience des utilisateurs sur la charge cognitive et le temps de navigation ?"
+  ],
+  "conferenceTitle_s": "9e Journée d'Étude sur le Traitement Cognitif des Systèmes d'Information Complexes (JETCSIC 2004)",
+  "authFullName_s": [
+   "Aline Chevalier",
+   "Maud Kicka",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05837134",
+  "uri_s": "https://hal.science/hal-05837134v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2004
+ },
+ {
+  "title_s": [
+   "A Cognitive Ergonomics Approach to Scheduling Algorithm Selection"
+  ],
+  "conferenceTitle_s": "6th International Workshop on Human Factors in Planning, Scheduling and Control in Manufacturing",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Jean-Michel Hoc"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05837131",
+  "uri_s": "https://hal.science/hal-05837131v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2004
+ },
+ {
+  "title_s": [
+   "L'assistance à l'opérateur humain pour l'ordonnancement dans les ateliers manufacturiers"
+  ],
+  "journalTitle_s": "Le travail humain",
+  "authFullName_s": [
+   "Jean-Michel Hoc",
+   "N. Mebarki",
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-03346312",
+  "uri_s": "https://hal.science/hal-03346312v1",
+  "docType_s": "ART",
+  "issue_s": [
+   "2"
+  ],
+  "page_s": "181",
+  "volume_s": "67",
+  "doiId_s": "10.3917/th.672.0181",
+  "producedDateY_i": 2004
+ },
+ {
+  "title_s": [
+   "La gestion des objectifs multiples et contradictoires en ordonnancement"
+  ],
+  "conferenceTitle_s": "Congrès de la Société Française de Psychologie (SFP 2003)",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Jean-Michel Hoc"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05837137",
+  "uri_s": "https://hal.science/hal-05837137v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2003
+ },
+ {
+  "title_s": [
+   "Individual differences and distributed cognition: the case of troubleshooting diagnosis"
+  ],
+  "conferenceTitle_s": "Cognitive Science Approaches to Process Control (CSAPC'03)",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Jean-Michel Hoc"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05836871",
+  "uri_s": "https://hal.science/hal-05836871v1",
+  "docType_s": "COMM",
+  "page_s": "113-118",
+  "publisher_s": [
+   "EACE"
+  ],
+  "producedDateY_i": 2003
+ },
+ {
+  "title_s": [
+   "From Human Heuristics to the Design of Scheduling Interfaces"
+  ],
+  "conferenceTitle_s": "1st Multidisciplinary International Conference on Scheduling: Theory and Applications (MISTA 2003)",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Jean-Michel Hoc"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05836864",
+  "uri_s": "https://hal.science/hal-05836864v1",
+  "docType_s": "COMM",
+  "page_s": "236-239",
+  "publisher_s": [
+   "The University of Nottingham"
+  ],
+  "producedDateY_i": 2003
+ },
+ {
+  "title_s": [
+   "Human Scheduling and its Support"
+  ],
+  "conferenceTitle_s": "10th International Conference on Human-Computer Interaction (HCI International 2003)",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Jean-Michel Hoc"
+  ],
+  "language_s": [
+   "en"
+  ],
+  "halId_s": "hal-05836867",
+  "uri_s": "https://hal.science/hal-05836867v1",
+  "docType_s": "COMM",
+  "page_s": "173-174",
+  "publisher_s": [
+   "Crete University Press"
+  ],
+  "producedDateY_i": 2003
+ },
+ {
+  "title_s": [
+   "Les compétences humaines de ré-ordonnancement"
+  ],
+  "conferenceTitle_s": "1er Colloque Gestion des Compétences et des Connaissances en Génie Industriel (GCCGI 2002)",
+  "authFullName_s": [
+   "Julien Cegarra",
+   "Nasser Mebarki"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05837141",
+  "uri_s": "https://hal.science/hal-05837141v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2002
+ },
+ {
+  "title_s": [
+   "Stratégies de diagnostic et complexité de la situation : le cas des dérangements téléphoniques"
+  ],
+  "conferenceTitle_s": "8e Journée d'Étude sur le Traitement Cognitif des Systèmes d'Information Complexes (JETCSIC 2002)",
+  "authFullName_s": [
+   "Julien Cegarra"
+  ],
+  "language_s": [
+   "fr"
+  ],
+  "halId_s": "hal-05837143",
+  "uri_s": "https://hal.science/hal-05837143v1",
+  "docType_s": "COMM",
+  "producedDateY_i": 2002
+ }
+]

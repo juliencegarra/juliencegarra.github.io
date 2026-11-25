@@ -1,0 +1,53 @@
+@font-face { font-family: "EB Garamond"; src: url("fonts/eb-garamond-latin-wght-normal.woff2") format("woff2"); font-weight: 400 800; font-style: normal; font-display: swap; unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "EB Garamond"; src: url("fonts/eb-garamond-latin-ext-wght-normal.woff2") format("woff2"); font-weight: 400 800; font-style: normal; font-display: swap; unicode-range: U+0100-02BA, U+1E00-1E9F, U+20A0-20AB; }
+@font-face { font-family: "EB Garamond"; src: url("fonts/eb-garamond-latin-wght-italic.woff2") format("woff2"); font-weight: 400 800; font-style: italic; font-display: swap; }
+
+/* Mise en page : portrait à gauche, une seule colonne de texte, listes datées */
+:root {
+  --bg: #f5f6f6; --fg: #16191b; --muted: #596166; --line: #cfd5d8; --link: #1f4e5f; --aside: #2f7f9e;
+  --serif: "EB Garamond", Garamond, "Times New Roman", serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #15191b; --fg: #e6e9ea; --muted: #9aa5aa; --line: #394247; --link: #a5d0df; --aside: #76b7d0; color-scheme: dark; }
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body { margin: 0; padding: 0 max(20px, env(safe-area-inset-right)) 5rem max(20px, env(safe-area-inset-left)); background: var(--bg); color: var(--fg); font: 1.16rem/1.42 var(--serif); }
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; text-underline-offset: .18em; }
+:focus-visible { outline: 2px solid var(--aside); outline-offset: 3px; }
+
+header { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: .4rem 2rem; max-width: 66rem; margin: 0 auto; padding: 1.6rem 0 3rem; }
+.name { font-size: 1.7rem; color: var(--fg); }
+.name:hover { text-decoration: none; }
+nav { display: flex; gap: 1.1rem; }
+nav a { color: var(--fg); padding-bottom: .05rem; }
+nav a[aria-current] { border-bottom: 1px solid currentColor; }
+
+.home { display: grid; grid-template-columns: 150px minmax(0, 38rem); gap: 2.6rem; justify-content: center; }
+.portrait img, .mono { display: block; width: 150px; height: 150px; object-fit: cover; border-radius: 50%; }
+.mono { display: grid; place-items: center; background: var(--link); color: var(--bg); font-size: 3.4rem; letter-spacing: .04em; }
+.text p { margin: 0 0 .8rem; }
+.text p a, .rows dd a[href*="github.io"], .rows dd a[href*="pilotii"] { border-bottom: 1px solid var(--line); }
+.text p a:hover { text-decoration: none; border-color: currentColor; }
+.links { padding-top: .5rem; }
+h1, h2 { font-weight: 400; text-wrap: balance; }
+h1 { margin: 0 0 .6rem; font-size: 2rem; line-height: 1.15; }
+.text h2 { margin: 2.2rem 0 .5rem; font-size: 1.5rem; line-height: 1.2; }
+.rows { margin: 0; display: grid; gap: .4rem; }
+.rows div { display: grid; grid-template-columns: 5.4rem minmax(0, 1fr); align-items: baseline; }
+.rows dt { color: var(--muted); font-size: .92rem; font-variant-numeric: lining-nums tabular-nums; }
+.rows dd { margin: 0; line-height: 1.3; }
+.j { color: var(--muted); }
+.aside { color: var(--aside); }
+.text .more { margin-top: .9rem; }
+
+.pubs { max-width: 46rem; margin: 0 auto; }
+@media (max-width: 46rem) {
+  header { padding-bottom: 2rem; }
+  .home { grid-template-columns: minmax(0, 1fr); gap: 1.4rem; }
+  .portrait img, .mono { width: 120px; height: 120px; }
+  .rows div { grid-template-columns: minmax(0, 1fr); }
+  .rows { gap: .7rem; }
+}
+@media print { nav { display: none; } }
