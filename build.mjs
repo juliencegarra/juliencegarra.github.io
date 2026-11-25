@@ -41,6 +41,16 @@ function curly(x) {
   return x;
 }
 
+/* Compaction des fichiers envoyés ; les sources restent lisibles dans le dépôt. */
+const compact = {
+  html: (s) => s.replace(/>\s*\n\s*</g, "><").replace(/\s*\n\s*/g, " ").trim(),
+  css: (s) => s.replace(/\/\*[\s\S]*?\*\//g, "").replace(/\s+/g, " ").replace(/ ?([{};,]) ?/g, "$1")
+    .replace(/: /g, ":").replace(/;}/g, "}").trim(),
+  // Commentaires et retraits seulement : les fins de ligne restent, pour ne rien changer au sens
+  js: (s) => s.replace(/^\s*\/\*[\s\S]*?\*\/\s*$/gm, "").replace(/^\s*\/\/.*$/gm, "").replace(/ {2}\/\/ .*$/gm, "")
+    .replace(/^\s+|[ \t]+$/gm, "").replace(/\n{2,}/g, "\n").trim(),
+};
+
 const rows = (list) =>
   `<dl class="rows">${list.map(([d, t]) => `<div><dt>${d}</dt><dd>${t}</dd></div>`).join("")}</dl>`;
 
@@ -107,11 +117,15 @@ const list = records(docs, OPTIONS);
 mkdirSync(OUT, { recursive: true });
 for (const f of readdirSync(OUT)) rmSync(join(OUT, f), { recursive: true });
 cpSync(join(ROOT, "static"), OUT, { recursive: true });
+for (const f of readdirSync(OUT)) {
+  const type = compact[f.split(".").pop()];
+  if (type) writeFileSync(join(OUT, f), type(readFileSync(join(OUT, f), "utf8").replace(/\r/g, "")));
+}
 writeFileSync(join(OUT, ".nojekyll"), "");
 for (const [lang, folder] of [["en", OUT], ["fr", join(OUT, "fr")]]) {
   mkdirSync(folder, { recursive: true });
   const t = curly(T[lang]);
-  writeFileSync(join(folder, "index.html"), home(lang, t, list));
-  writeFileSync(join(folder, "publications.html"), publications(lang, t, list));
+  writeFileSync(join(folder, "index.html"), compact.html(home(lang, t, list)));
+  writeFileSync(join(folder, "publications.html"), compact.html(publications(lang, t, list)));
 }
 console.log(`${docs.length} notices HAL, ${list.length} publications affichées -> ${OUT}`);
