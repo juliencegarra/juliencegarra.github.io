@@ -37,7 +37,7 @@ export const T = {
       "I am a full professor of ergonomic psychology at the Institut National Universitaire Champollion (University of Toulouse) in Albi, France, and a member of the SCoTE research unit.",
       "I study how people work with automated systems: trust, complacency, mental workload and multitasking. I do so in aviation, in driving among autonomous vehicles, in planning and scheduling, and in the use of exoskeletons at work.",
       "From 2016 to 2026 I headed the SCoTE research unit (cognitive science, technology, ergonomics). I have supervised or co-supervised thirteen PhD theses, two of them in progress.",
-      "I have also headed the master's programme in ergonomics (2009–2021), the master's track in quality, environment and industrial risks (QERI, 2016–2021) and the university diploma in environment, industrial risk and safety management (MERIS, 2011–2021).",
+      "I have also headed the master's programme in ergonomics (2009-2021), the master's track in quality, environment and industrial risks (QERI, 2016-2021) and the university diploma in environment, industrial risk and safety management (MERIS, 2011-2021).",
       "I develop <a href=\"https://juliencegarra.github.io/OpenMATB/\">OpenMATB</a>, an open-source multi-attribute task battery for research on mental workload, used by researchers in more than ten countries."
     ],
     links: [
@@ -53,23 +53,23 @@ export const T = {
         "Projects",
         [
           [
-            "2027–2029",
+            "2027-2029",
             "CHORUS, human-drone cooperation for search and rescue (ANR ASTRID)."
           ],
           [
-            "2022–2026",
+            "2022-2026",
             "SR-VIUsagers, intelligent vehicles and other road users (French Road Safety Delegation), principal investigator."
           ],
           [
-            "2020–2024",
+            "2020-2024",
             "Eye-Interaction, eye-based systems against incapacitation (ANR ASTRID Maturation), co-principal investigator."
           ],
           [
-            "2019–2023",
+            "2019-2023",
             "PER4MANCE, flexible work allocation in aircraft assembly (ANR)."
           ],
           [
-            "2016–2020",
+            "2016-2020",
             "Smart Planning, planning in road transport (ANR)."
           ]
         ]
@@ -95,24 +95,24 @@ export const T = {
         "Background",
         [
           [
-            "2014–",
+            "2014-",
             "Full professor, INU Champollion."
           ],
           [
-            "2022–2023",
-            "Six-month research leave at the IMS laboratory (CNRS UMR 5218), Bordeaux INP – ENSC."
+            "2022-2023",
+            "Six-month research leave at the IMS laboratory (CNRS UMR 5218), Bordeaux INP (ENSC)."
           ],
           [
             "2012",
             "Habilitation to supervise research."
           ],
           [
-            "2006–2014",
+            "2006-2014",
             "Associate professor, Centre universitaire Champollion."
           ],
           [
-            "2001–2004",
-            "PhD in ergonomic psychology, Université Paris 8 and IRCCyN – École Centrale de Nantes."
+            "2001-2004",
+            "PhD in ergonomic psychology, Université Paris 8 and IRCCyN (École Centrale de Nantes)."
           ]
         ]
       ]
@@ -128,7 +128,7 @@ export const T = {
       "Je suis professeur des universités en psychologie ergonomique à l'Institut National Universitaire Champollion (Université de Toulouse), à Albi, et membre de l'unité de recherche SCoTE.",
       "Mes recherches portent sur la coopération entre l'humain et les systèmes automatisés : confiance, contentement, charge mentale et gestion de plusieurs tâches à la fois. Je les mène dans l'aéronautique, la conduite parmi les véhicules autonomes, la planification et l'usage des exosquelettes au travail.",
       "J'ai dirigé de 2016 à 2026 l'unité de recherche SCoTE (Sciences de la cognition, Technologie, Ergonomie). J'ai dirigé ou co-encadré treize thèses, dont deux en cours.",
-      "J'ai aussi dirigé le master Ergonomie (2009–2021), le parcours de master Qualité, environnement et risques industriels (QERI, 2016–2021) et le diplôme d'université Management de l'environnement, du risque industriel et de la sécurité (MERIS, 2011–2021).",
+      "J'ai aussi dirigé le master Ergonomie (2009-2021), le parcours de master Qualité, environnement et risques industriels (QERI, 2016-2021) et le diplôme d'université Management de l'environnement, du risque industriel et de la sécurité (MERIS, 2011-2021).",
       "Je développe <a href=\"https://juliencegarra.github.io/OpenMATB/\">OpenMATB</a>, une batterie de tâches multiples libre pour l'étude de la charge mentale, utilisée par des équipes de plus de dix pays."
     ],
     links: [
@@ -144,23 +144,23 @@ export const T = {
         "Projets",
         [
           [
-            "2027–2029",
+            "2027-2029",
             "CHORUS, coopération humain-drones pour la recherche et le sauvetage (ANR ASTRID)."
           ],
           [
-            "2022–2026",
+            "2022-2026",
             "SR-VIUsagers, véhicules intelligents et autres usagers de la route (Délégation à la Sécurité Routière), porteur."
           ],
           [
-            "2020–2024",
+            "2020-2024",
             "Eye-Interaction, systèmes oculaires pour la résistance à l'incapacitation (ANR ASTRID Maturation), co-porteur."
           ],
           [
-            "2019–2023",
+            "2019-2023",
             "PER4MANCE, répartition flexible du travail en assemblage aéronautique (ANR)."
           ],
           [
-            "2016–2020",
+            "2016-2020",
             "Smart Planning, planification dans le transport (ANR)."
           ]
         ]
@@ -186,24 +186,24 @@ export const T = {
         "Parcours",
         [
           [
-            "2014–",
+            "2014-",
             "Professeur des universités, INU Champollion."
           ],
           [
-            "2022–2023",
-            "Accueil au laboratoire IMS (CNRS UMR 5218), Bordeaux INP – ENSC."
+            "2022-2023",
+            "Accueil au laboratoire IMS (CNRS UMR 5218), Bordeaux INP (ENSC)."
           ],
           [
             "2012",
             "Habilitation à diriger des recherches."
           ],
           [
-            "2006–2014",
+            "2006-2014",
             "Maître de conférences, Centre universitaire Champollion."
           ],
           [
-            "2001–2004",
-            "Doctorat en psychologie ergonomique, université Paris 8 et IRCCyN – École centrale de Nantes."
+            "2001-2004",
+            "Doctorat en psychologie ergonomique, université Paris 8 et IRCCyN (École centrale de Nantes)."
           ]
         ]
       ]
